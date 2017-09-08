@@ -23,6 +23,9 @@ Xcode 9 beta 6
 Includes the latest beta macOS, iOS, watchOS, and tvOS SDKs.  
 https://download.developer.apple.com/Developer_Tools/Xcode_9_beta_6/Xcode_9_beta_6.xip
 
+Xcode 8.3.3  
+https://download.developer.apple.com/Developer_Tools/Xcode_8.3.3/Xcode8.3.3.xip
+
 
 
 
