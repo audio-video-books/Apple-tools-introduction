@@ -18,6 +18,11 @@ Simulator is a great tool for rapid prototyping and development before testing y
 
 Get the latest beta releases of Xcode, macOS, iOS, watchOS, tvOS, and more.
 
+Xcode 9 beta 6  
+9M214v Aug 21, 2017  
+Includes the latest beta macOS, iOS, watchOS, and tvOS SDKs.  
+https://download.developer.apple.com/Developer_Tools/Xcode_9_beta_6/Xcode_9_beta_6.xip
+
 
 
 
